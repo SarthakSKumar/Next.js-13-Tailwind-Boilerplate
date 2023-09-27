@@ -18,12 +18,12 @@ Follow these steps to get your project up and running:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SarthakSKumar/nextjs13-tailwind-boilerplate.git
+   git clone https://github.com/SarthakSKumar/Next.js-13-Tailwind-Boilerplate.git
    ```
    
 2. **Navigate to the project directory:**
    ```bash
-   cd nextjs13-tailwind-boilerplate
+   cd Next.js-13-Tailwind-Boilerplate
    ```
    
 3. **Install dependencies:**
